@@ -24,10 +24,47 @@ caption
 	color: red;
 }
 
+table
+{
+	
+	margin-bottom: 10%;
+	
+}
 
 
 p
 {
 	font-size: 20px;
+}
+
+footer
+{
+	
+	background-color: rgb(153,163,164);
+	
+}
+
+#img_drogue
+{
+	
+	float: left;
+	background-color: rgb(153,163,164);
+	
+}
+
+#texte_fin
+{
+	
+	float: center;
+	
+}
+
+
+#img_danger
+{ 
+
+	float: right;
+	background-color: rgb(153,163,164);
+	
 }
 
