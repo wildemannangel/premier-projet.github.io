@@ -15,7 +15,7 @@ h6
 header
 {
 	
-	background-image: url(file:///C:/Users/angel/OneDrive/Images/imagescoursHTML/1erpageweb/candy-text-effect.jpg);
+	background-image: url(1erpageweb/candy-text-effect.jpg);
 	
 	
 }
@@ -76,7 +76,7 @@ p
 footer
 {
 	padding: 100px;
-	background-image: url(file:///C:/Users/angel/OneDrive/Images/imagescoursHTML/1erpageweb/candy-cane-text-effect.jpg);
+	background-image: url(1erpageweb/candy-cane-text-effect.jpg);
 	background-repeat: repeat;
 	display: flex;
     justify-content: space-around;
