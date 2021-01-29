@@ -1,0 +1,102 @@
+
+
+
+
+h6
+{
+	color:  rgb(86,201,234);
+	text-align: center;
+	font-family: arial;
+	font-style: italic;
+	font-size: 50px;
+}
+
+
+header
+{
+	
+	background-image: url(file:///C:/Users/angel/OneDrive/Images/imagescoursHTML/1erpageweb/candy-text-effect.jpg);
+	
+	
+}
+
+#bouton
+{
+    background-color: red;
+}
+
+
+header a
+{
+	
+	margin-left: 2%;
+	color: red ;
+}
+
+
+
+
+
+table{
+	
+	align: center;
+	border: solid #000000;
+	cellspacing: 0;
+	width: 1000px;
+	margin-bottom: 10%;
+	margin-top: 5%;
+	margin-right:auto;
+	margin-left:auto; 
+}
+
+
+
+th,td{
+	
+	border: solid #000000;
+	
+	
+	
+}
+
+
+
+caption
+{
+	color: red;
+}
+
+
+
+p
+{
+	font-size: 20px;
+}
+
+footer
+{
+	padding: 100px;
+	background-image: url(file:///C:/Users/angel/OneDrive/Images/imagescoursHTML/1erpageweb/candy-cane-text-effect.jpg);
+	background-repeat: repeat;
+	display: flex;
+    justify-content: space-around;
+}
+
+
+footer p
+{
+	
+	text-transform: uppercase;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 35px;
+	font-family: arial;
+	text-align: center;
+	color: rgb(232,9,216);
+
+}
+
+
+
+
+
