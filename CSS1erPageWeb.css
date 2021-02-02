@@ -23,7 +23,7 @@ h6
 header
 {
 	
-	background-image: url(1erpageweb/differents-sucres-diabete.jpg);
+	background-image: url(file://1erpageweb/differents-sucres-diabete.jpg);
 	background-color:white;
 	
 	background-position: center center;
