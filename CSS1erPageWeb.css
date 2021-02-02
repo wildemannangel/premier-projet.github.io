@@ -4,49 +4,82 @@
 
 h6
 {
-	color:  rgb(86,201,234);
+	color:  rgb(0,84,138);
 	text-align: center;
 	font-family: arial;
 	font-style: italic;
 	font-size: 50px;
 }
 
+#titre_logo img
+{
+	
+	position: absolute;
+    top: 110px;
+	
+}
+
 
 header
 {
 	
-	background-image: url(1erpageweb/candy-text-effect.jpg);
+	background-image: url(file:///C:/Users/angel/OneDrive/Images/imagescoursHTML/1erpageweb/differents-sucres-diabete.jpg);
+	background-color:white;
 	
-	
+	background-position: center center;
+	padding: 150px;
 }
 
-#bouton
-{
-    background-color: red;
-}
+
 
 
 header a
 {
 	
-	margin-left: 2%;
-	color: red ;
+	margin-left: 5%;
+	color: blue ;
+	
+}
+
+header nav
+{
+    position: absolute;
+    top: 300px;
+    left: 25px;
+   
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  
+}
+
+li {
+  float: left;
+  
+}
+
+li a {
+  display: block;
+  padding: 8px;
+  background-color: #DDDDDD;
+  
 }
 
 
+table
+{
 
-
-
-table{
-	
-	align: center;
 	border: solid #000000;
-	cellspacing: 0;
 	width: 1000px;
 	margin-bottom: 10%;
 	margin-top: 5%;
 	margin-right:auto;
 	margin-left:auto; 
+	font-size: 20px;
 }
 
 
@@ -66,6 +99,11 @@ caption
 	color: red;
 }
 
+ul li{ 
+
+	font-size: 20px;
+
+}
 
 
 p
@@ -75,11 +113,12 @@ p
 
 footer
 {
-	padding: 100px;
-	background-image: url(1erpageweb/candy-cane-text-effect.jpg);
+	padding: 200px;
+	background-image: url(file:///C:/Users/angel/OneDrive/Images/imagescoursHTML/1erpageweb/sucre_fond2.jpg);
 	background-repeat: repeat;
 	display: flex;
     justify-content: space-around;
+	background-position: center center;
 }
 
 
@@ -91,8 +130,9 @@ footer p
 	font-weight: bold;
 	font-size: 35px;
 	font-family: arial;
-	text-align: center;
-	color: rgb(232,9,216);
+	text-align: justify;
+	padding-bottom: 5%;
+	color: rgb(113,193,245);
 
 }
 
